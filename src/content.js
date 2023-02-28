@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "United States Veteran |Full Stack Developer,currently in Seattle, WA",
     your_img_url: "https://cdn.pixabay.com/photo/2017/06/04/20/23/binary-2372130_960_720.jpg",
 };
 
@@ -146,7 +146,6 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "jeffrey.s.smith@gmail.com",
-    YOUR_EMAIL: "jeffrey_s_smith@live.com",
     YOUR_FONE: "(206)237-8504",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
