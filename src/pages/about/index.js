@@ -30,7 +30,7 @@ export const About = () => {
           <Col lg="5">
             <h3 className="color_sec py-4">{dataabout.title}</h3>
           </Col>
-          <Col lg="7" className="d-flex align-items-center">
+          <Col lg="7" className="d-flex align-items-center aboutme">
             <div>
               <p>{dataabout.aboutme}</p>
             </div>

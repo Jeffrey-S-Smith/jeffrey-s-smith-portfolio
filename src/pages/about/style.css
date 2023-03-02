@@ -11,8 +11,12 @@
   border-color: var(--text-color) !important;
 }
 
+.aboutme {
+  font-size: 17px;
+}
+
 .progress-title {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 700;
   margin: 15px 0 20px;
   font-family: 'Raleway';
@@ -29,7 +33,7 @@
 
 .progress .progress-bar {
   position: relative;
-  background: var(--text-color);
+  background: blue;
   animation: animate-positive 2s;
   overflow: visible;
   opacity: 0.9;
@@ -42,7 +46,7 @@
   font-size: 17px;
   font-weight: bold;
   font-style: italic;
-  color: var(--text-color);
+  color: red;
 }
 
 @-webkit-keyframes animate-positive {
