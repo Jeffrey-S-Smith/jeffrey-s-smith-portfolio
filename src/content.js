@@ -1,17 +1,17 @@
 const logotext = "Jeffrey S Smith";
 const meta = {
     title: "Jeffrey S Smith",
-    description: "I’m Jeffrey S Smith United States Veteran |Full Stack Developer,currently in Seattle, WA",
+    description: "I’m Jeffrey S Smith United States Veteran |Full Stack Developer, currently in Seattle, WA gggg",
 };
 
 const introdata = {
     title: "I’m Jeffrey Smith",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
+        second: "I code because I like to analyze and solve complex technical information",
         third: "I develop mobile apps",
     },
-    description: "United States Veteran |Full Stack Developer,currently in Seattle, WA",
+    description: "United States Veteran |Full Stack Developer, currently in Seattle, WA",
     your_img_url: "https://cdn.pixabay.com/photo/2017/06/04/20/23/binary-2372130_960_720.jpg",
 };
 
@@ -202,24 +202,25 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://as1.ftcdn.net/v2/jpg/02/96/71/88/1000_F_296718820_m6ZeC2WwhKrOAhc6VxIWL73xeBzWu11W.jpg",
+        desctiption: "C++ Tic Tac Toe Game. Tic Tac Toe is an integral part of our childhood memories. It is a fun game consisting of two players who battle each other using Xs and Os.",
+        link: "https://github.com/Jeffrey-S-Smith/c-tic-tac-toe",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://miro.medium.com/max/409/1*o1WI_Lzbi8fiL9ULb4nhuw.jpeg",
+        desctiption: "The Airline registration system is in C++ allows a user to book a flight to a specific nation of choice. They will obtain the ticket by filling in all the necessary details. User may also choose the day and time of the trip.",
+        link: "https://github.com/Jeffrey-S-Smith/cplus-Airline-Registration-System",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "	https://i0.wp.com/www.vampiretools.com/wp-content/uploads/2018/09/psr.jpg?fit=908%2C490&ssl=1",
+        desctiption: "Rock-Paper-Scissors is a simple game that people love to play. I created the game in C++ while I was in college. I decided to see if I could code it into Python.",
+        link: "https://github.com/Jeffrey-S-Smith/python-rock-paper-scissors",
+        
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.sourcecodester.com/sites/default/files/styles/large/public/images/razormist/billing-system-using-python.png?itok=9MylNknQ",
+        desctiption: "Python Billing System Created a simple billing system where I can expand my knowledge to composing a program in python of an electronic store that offers electronic machines like phone, laptop and HDD.",
+        link: "https://github.com/Jeffrey-S-Smith/python-billing-system",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
@@ -227,8 +228,8 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://miro.medium.com/max/409/1*o1WI_Lzbi8fiL9ULb4nhuw.jpeg",
+        desctiption: "This project on the Airline registration system in C++ will allow a user to book a flight to a specific nation of their choice, and they will obtain the ticket by filling in all the necessary details. The user may also choose the day and time of the trip. This project will employ many C++ principles to help you understand the concepts of C++ programming practically.",
         link: "#",
     },
 
@@ -268,7 +269,7 @@ const contactConfig = {
     YOUR_EMAIL: "jeffrey.s.smith@gmail.com",
     YOUR_FONE: "(206)237-8504",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
+    // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
