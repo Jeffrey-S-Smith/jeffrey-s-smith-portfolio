@@ -11,18 +11,18 @@ const introdata = {
         second: "I code because I like to analyze and solve complex technical information",
         third: "I develop mobile apps",
     },
-    description: "United States Veteran |Full Stack Developer, currently in Seattle, WA",
+    description: "Veteran |Full Stack Developer | IT Specialist | Logistics Management, currently in Seattle, WA",
     your_img_url: "https://cdn.pixabay.com/photo/2017/06/04/20/23/binary-2372130_960_720.jpg",
 };
 
 const dataabout = {
     title: "About me",
-    aboutme: "I am a methodical, customer-oriented and highly competent IT professional with the training and Six years of experience to excel in supply chain management and IT related roles, including software engineering, data analysis, computer maintenance, network configuration, workstation troubleshooting as well as building a complete system architecture from the ground up to meet specific client requirements. I am a technically-proficient consultant well-versed in the latest hardware and software upgrades and committed to providing excellent support to users. Additionally, I am a skilled trouble-shooter who is continually focused on identifying, isolating and resolving technical issues. My other expertise in the physical building of computers and servers, hardware installation, network and systems administration. Throughout my career, I have demonstrated my ability to learn quickly and “think on my feet” as well as collaborate with internal/external partners, including interfacing with senior levels of management to ensure customer satisfaction. If this is what your organization is looking for, we should definitely connect!",
+    aboutme: "I am a Full Stack Developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best developer that I can be and to  contribute to the technology industry. Also I am customer-oriented and highly competent IT professional with six years of experience to in supply chain management and IT related roles, including software engineering, data analysis, computer maintenance, network configuration, workstation troubleshooting as well as building a complete system architecture from the ground up to meet specific client requirements. I am a technically-proficient consultant well-versed in the latest hardware and software upgrades and committed to providing excellent support to users. Additionally, I am a skilled trouble-shooter who is continually focused on identifying, isolating and resolving technical issues. My other expertise in the physical building of computers and servers, hardware installation, network and systems administration. Throughout my career, I have demonstrated my ability to learn quickly and “think on my feet” as well as collaborate with internal/external partners, including interfacing with senior levels of management to ensure customer satisfaction.",
 };
 
 
 const worktimeline = [{
-        jobtitle: "Information Management (Remote)",
+        jobtitle: "Information Management Configuration Analyst (Remote)",
         where: "Molina Healthcare",
         date: "2021",
     },
@@ -266,9 +266,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "jeffrey.s.smith@gmail.com",
+    YOUR_EMAIL: "jeffrey.s.smith.dev@gmail.com",
     YOUR_FONE: "(206)237-8504",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "I would love to hear from you! Please fill out the form and I will respond within 24 hours. ",
     // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
