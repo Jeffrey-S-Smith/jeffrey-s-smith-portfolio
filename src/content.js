@@ -7,9 +7,10 @@ const meta = {
 const introdata = {
     title: "I’m Jeffrey Smith",
     animated: {
-        first: "I love coding",
-        second: "I code because I like to analyze and solve complex technical information",
-        third: "I develop mobile apps",
+        first: "I am enthusiastic about technology.",
+        second: "I code because I like to analyze and solve complex technical information.",
+        third: "CARPE DIEM! (SEIZE THE DAY!)",
+        four: `A Quote that inspires me by Thomas Edison "I have not failed. I've just found 10,000 ways that won't work."`,
     },
     description: "Veteran |Full Stack Developer | IT Specialist | Logistics Management, currently in Seattle, WA",
     your_img_url: "https://cdn.pixabay.com/photo/2017/06/04/20/23/binary-2372130_960_720.jpg",
