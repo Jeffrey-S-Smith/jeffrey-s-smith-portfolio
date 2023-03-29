@@ -78,8 +78,8 @@ const skills = [{
         value: 80,
     },
     {
-    name: "MUI",
-    value: 70,
+        name: "MUI",
+        value: 70,
     },
     {
         name: "JQuery",
