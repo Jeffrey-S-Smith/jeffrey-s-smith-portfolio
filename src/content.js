@@ -272,9 +272,9 @@ const contactConfig = {
     description: "I would love to hear from you! Please fill out the form and I will respond within 24 hours. ",
     // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: process.env.SERVICE_ID,
+    YOUR_TEMPLATE_ID: process.env.TEMPLATE_ID,
+    YOUR_USER_ID:  process.env.USER_ID,
 };
 
 const socialprofils = {
