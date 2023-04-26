@@ -90,14 +90,14 @@ export const About = () => {
                 <div key={i}>
                   <h3 className="progress-title">{data.name}</h3>
                   <div className="progress">
-                    <div
+                    {/* <div
                       className="progress-bar"
                       style={{
-                        width: `${data.value}%`,
+                         width: `${data.value}%`,
                       }}
                     >
                       <div className="progress-value">{data.value}%</div>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               );

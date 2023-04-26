@@ -61,7 +61,9 @@ export const ContactUs = () => {
     setFormdata({
       ...formData,
       [e.target.name]: e.target.value,
+      
     });
+   
   };
 
   return (

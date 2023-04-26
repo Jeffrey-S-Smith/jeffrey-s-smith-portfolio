@@ -18,7 +18,7 @@ const introdata = {
 
 const dataabout = {
     title: "About me",
-    aboutme: "I am a Full Stack Developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best developer that I can be and to  contribute to the technology industry. Also I am customer-oriented and highly competent IT professional with six years of experience to in supply chain management and IT related roles, including software engineering, data analysis, computer maintenance, network configuration, workstation troubleshooting as well as building a complete system architecture from the ground up to meet specific client requirements. I am a technically-proficient consultant well-versed in the latest hardware and software upgrades and committed to providing excellent support to users. Additionally, I am a skilled trouble-shooter who is continually focused on identifying, isolating and resolving technical issues. My other expertise in the physical building of computers and servers, hardware installation, network and systems administration. Throughout my career, I have demonstrated my ability to learn quickly and “think on my feet” as well as collaborate with internal/external partners, including interfacing with senior levels of management to ensure customer satisfaction.",
+    aboutme: "I am a Full Stack Developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best developer that I can be and to  contribute to the technology industry.",
 };
 
 
@@ -50,19 +50,13 @@ const education = [{
 
 const skills = [{
     
-        name: "HTML",
-        value: 80,
+        name: "HTML/CSS",
+        // value: 80,
 
     },
     {
     
         name: "CSS",
-        value: 80,
-
-    },
-    {
-    
-        name: "Sass",
         value: 80,
 
     },
@@ -74,118 +68,9 @@ const skills = [{
         name: "React",
         value: 65,
     },
-    {
-        name: "Bootstrap",
-        value: 80,
-    },
-    {
-        name: "MUI",
-        value: 70,
-    },
-    {
-        name: "JQuery",
-        value: 70,
-        },
-    {
-        name: "C#",
-        value: 60,
-    },
-    {
-        name: "C++",
-        value: 65,
-    },
-    {
-        name: "C",
-        value: 65,
-    },
-    {
-        name: "Visual Basic",
-        value: 60,
-    },
-   {
-        name: "Bash",
-        value: 80,
-    },
-    {
-        name: "Git",
-        value: 80,
-    },
-    {
-        name: "GitHub",
-        value: 80,
-    },
-    {
-        name: "PostgresSQL",
-        value: 65,
-    },
-    {
-        name: "SQLite",
-        value: 65,
-    },
-    {
-        name: "mongoDB",
-        value: 65,
-    },
-    {
-        name: "DynamoDB",
-        value: 65,
-    },
-    {
-        name: "SQL server",
-        value: 65,
-    },
-    {
-        name: "Oracle",
-        value: 65,
-    },
-    {
-        name: "Cloud(AWS)",
-        value: 65,
-    },
-    {
-        name: "Cognito",
-        value: 65,
-    },
-    {
-        name: "Auth0",
-        value: 65,
-    },
-    {
-        name: "Visual Studio Code",
-        value: 65,
-    }, 
-    {
-        name: "Visual Studio",
-        value: 65,
-    },
-    {
-        name: "Postman",
-        value: 65,
-    },
-    {
-        name: "Thunder Bolt",
-        value: 65,
-    },
-    {
-        name: "MS Office Suite",
-        value: 65,
-    },
-    {
-        name: "Lotus",
-        value: 65,
-    },
-    {
-        name: "Window server",
-        value: 65,
-    },
-    {
-        name: "Linux",
-        value: 65,
-    },
-    {
-        name: "Window",
-        value: 65,
-    },
+    
+    
+        
    ];
 
 const services = [{
@@ -272,9 +157,9 @@ const contactConfig = {
     description: "I would love to hear from you! Please fill out the form and I will respond within 24 hours. ",
     // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: process.env.SERVICE_ID,
-    YOUR_TEMPLATE_ID: process.env.TEMPLATE_ID,
-    YOUR_USER_ID:  process.env.USER_ID,
+    YOUR_SERVICE_ID: process.env.REACT_APP_SERVICE_ID,
+    YOUR_TEMPLATE_ID: process.env.REACT_APP_SERVICE_TEMPLATE_ID,
+    YOUR_USER_ID:  process.env.REACT_APP_SERVICE_USER_ID,
 };
 
 const socialprofils = {

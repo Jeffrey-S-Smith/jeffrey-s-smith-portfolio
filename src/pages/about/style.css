@@ -34,7 +34,7 @@
 
 .progress .progress-bar {
   position: relative;
-  background: blue;
+  background: var(--secondary-color);
   animation: animate-positive 2s;
   overflow: visible;
   opacity: 0.9;
