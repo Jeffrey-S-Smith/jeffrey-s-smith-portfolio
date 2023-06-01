@@ -18,11 +18,17 @@ const introdata = {
 
 const dataabout = {
     title: "About me",
-    aboutme: "I am a Full Stack Developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best developer that I can be and to  contribute to the technology industry.",
+    aboutme: "Full Stack Developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best developer that I can be and to  contribute to the technology industry.",
 };
 
 
 const worktimeline = [{
+        
+    jobtitle: "Network Technician",
+        where: "Freelance - Consultant",
+        date: "2022 - Current",
+    },
+    {
         jobtitle: "Information Management Configuration Analyst (Remote)",
         where: "Molina Healthcare",
         date: "2021",
@@ -41,6 +47,18 @@ const education = [{
     date: "2022",
 },
 {
+    school: "Microsoft",
+    degree: "Big Data SQL Developer",
+    fieldofstudy: "Software Development",
+    date: "2021",
+},
+{
+    school: "Sabio",
+    degree: "Full-Stack Web Developer",
+    fieldofstudy: "Software Development",
+    date: "2020",
+},
+{
     school: "Bryant and Stratton College",
     degree: "Associate of Arts and Sciences - AAS",
     fieldofstudy: "Information Technology",
@@ -50,30 +68,31 @@ const education = [{
 
 const skills = [{
     
-        name: "HTML/CSS",
+        name: "Language Knowledge:",
+        ldescription: "HTML, CSS, Javascript,",
         // value: 80,
 
     },
     {
     
-        name: "CSS",
-        value: 80,
+        name: ":",
+        ldescription: "HTML, CSS, Javascript,",
 
-    },
-    {
-        name: "Javascript",
-        value: 75,
-    },
-    {
-        name: "React",
-        value: 65,
-    },
+     },
+    // {
+    //     name: "Javascript",
+    //     value: 75,
+    // },
+    // {
+    //     name: "React",
+    //     value: 65,
+    // },
     
     
         
    ];
 
-const services = [{
+const competencies = [{
         title: "UI & UX Design",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
@@ -174,7 +193,7 @@ export {
     worktimeline,
     education,
     skills,
-    services,
+    competencies,
     introdata,
     contactConfig,
     socialprofils,
