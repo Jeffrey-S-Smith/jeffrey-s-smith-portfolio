@@ -26,10 +26,10 @@ const worktimeline = [{
         
     jobtitle: "Network Technician",
         where: "Freelance - Consultant",
-        date: "2022 - Current",
+        date: "Current",
     },
     {
-        jobtitle: "Information Management Configuration Analyst (Remote)",
+        jobtitle: "Information Management Configuration Analyst",
         where: "Molina Healthcare",
         date: "2021",
     },
