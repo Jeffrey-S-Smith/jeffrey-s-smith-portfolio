@@ -128,9 +128,9 @@ const dataportfolio = [{
         link: "https://github.com/Jeffrey-S-Smith/python-billing-system",
     },
     {
-        img: 'img/jeffrey_smith_portfolio.jpg',
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "public/img/jeffrey_smith_portfolio.jpg",
+        desctiption: "This is Jeffrey Smith personal portfolio.",
+        link: "https://github.com/Jeffrey-S-Smith/jeffrey-s-smith-portfolio",
     },
     {
         img: "https://miro.medium.com/max/409/1*o1WI_Lzbi8fiL9ULb4nhuw.jpeg",
