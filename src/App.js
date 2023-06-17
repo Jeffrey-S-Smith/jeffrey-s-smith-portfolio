@@ -10,6 +10,7 @@ import Headermain from "./header";
 import AnimatedCursor  from "./hooks/animatedCursor";
 import "./App.css";
 
+
 function _ScrollToTop(props) {
   const { pathname } = useLocation();
   useEffect(() => {
