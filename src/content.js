@@ -25,7 +25,7 @@ const dataabout = {
 const worktimeline = [{
         
     jobtitle: "Network Technician",
-        where: "Freelance - Consultant",
+        where: "Freelance-Consultant",
         date: "Current",
     },
     {
