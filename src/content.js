@@ -130,7 +130,7 @@ const dataportfolio = [{
     {
         img: "https://www.dropbox.com/s/s5yzx5s66w3m9su/jeffrey_smith_portfolio.jpg?dl=0",
         desctiption: "Jeffrey Smith personal portfolio.",
-        link: "https://github.com/Jeffrey-S-Smith/jeffrey-s-smith-portfolio",
+        link: "https://www.jeffrey-s-smith.dev/",
     },
     {
         img: "https://miro.medium.com/max/409/1*o1WI_Lzbi8fiL9ULb4nhuw.jpeg",
