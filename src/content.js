@@ -68,25 +68,25 @@ const education = [{
 
 const skills = [{
     
-        name: "Language Knowledge:",
-        ldescription: "HTML, CSS, Javascript,",
+        name: "Frontend:",
+        ldescription: "HTML, CSS, React, Javascript, JQuery",
         // value: 80,
 
     },
     {
     
-        name: ":",
-        ldescription: "HTML, CSS, Javascript,",
+        name: "Backend:",
+        ldescription: "Node.js, SQL, PostgreSQL, SQLite, MongoDB, DynamoDB, Oracle",
 
      },
-    // {
-    //     name: "Javascript",
-    //     value: 75,
-    // },
-    // {
-    //     name: "React",
-    //     value: 65,
-    // },
+    {
+        name: "Other",
+        ldescription: "Web architecture, Git and GitHub, HTTP and REST, NPM, Oracle, Agile Project Management, Debugging",
+    },
+    {
+        name: "Soft",
+        ldescription: "Attention to detail, Organization, Communication, Team Player,",
+    },
     
     
         
