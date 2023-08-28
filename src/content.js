@@ -81,7 +81,7 @@ const skills = [{
      },
     {
         name: "Other",
-        ldescription: "Web architecture, Git and GitHub, HTTP and REST, NPM, Oracle, Agile Project Management, Debugging",
+        ldescription: "Web architecture, Git and GitHub, HTTP and REST, NPM, Agile Project Management, Debugging",
     },
     {
         name: "Soft",
@@ -92,7 +92,7 @@ const skills = [{
         
    ];
 
-const competencies = [{
+const services = [{
         title: "UI & UX Design",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
@@ -193,7 +193,7 @@ export {
     worktimeline,
     education,
     skills,
-    competencies,
+    services,
     introdata,
     contactConfig,
     socialprofils,
