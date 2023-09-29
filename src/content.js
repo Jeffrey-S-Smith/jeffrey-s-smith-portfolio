@@ -108,12 +108,12 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://as1.ftcdn.net/v2/jpg/02/96/71/88/1000_F_296718820_m6ZeC2WwhKrOAhc6VxIWL73xeBzWu11W.jpg",
-        description: "C++ Tic Tac Toe Game. Tic Tac Toe is an integral part of our childhood memories. It is a fun game consisting of two players who battle each other using Xs and Os.",
+        desctiption: "C++ Tic Tac Toe Game. Tic Tac Toe is an integral part of our childhood memories. It is a fun game consisting of two players who battle each other using Xs and Os.",
         link: "https://github.com/Jeffrey-S-Smith/c-tic-tac-toe",
     },
     {
         img: "https://miro.medium.com/max/409/1*o1WI_Lzbi8fiL9ULb4nhuw.jpeg",
-        description: "The Airline registration system is in C++ allows a user to book a flight to a specific nation of choice. They will obtain the ticket by filling in all the necessary details. User may also choose the day and time of the trip.",
+        desctiption: "The Airline registration system is in C++ allows a user to book a flight to a specific nation of choice. They will obtain the ticket by filling in all the necessary details. User may also choose the day and time of the trip.",
         link: "https://github.com/Jeffrey-S-Smith/cplus-Airline-Registration-System",
     },
     {
@@ -124,50 +124,50 @@ const dataportfolio = [{
     },
     {
         img: "https://www.sourcecodester.com/sites/default/files/styles/large/public/images/razormist/billing-system-using-python.png?itok=9MylNknQ",
-        description: "Python Billing System Created a simple billing system where I can expand my knowledge to composing a program in python of an electronic store that offers electronic machines like phone, laptop and HDD.",
+        desctiption: "Python Billing System Created a simple billing system where I can expand my knowledge to composing a program in python of an electronic store that offers electronic machines like phone, laptop and HDD.",
         link: "https://github.com/Jeffrey-S-Smith/python-billing-system",
     },
     {
         img: "https://www.dropbox.com/home?preview=jeffrey_smith_portfolio.jpg",
-        description: "Jeffrey Smith personal portfolio.",
+        desctiption: "Jeffrey Smith personal portfolio.",
         link: "https://www.jeffrey-s-smith.dev/",
     },
     {
         img: "https://miro.medium.com/max/409/1*o1WI_Lzbi8fiL9ULb4nhuw.jpeg",
-        description: "This project on the Airline registration system in C++ will allow a user to book a flight to a specific nation of their choice, and they will obtain the ticket by filling in all the necessary details. The user may also choose the day and time of the trip. This project will employ many C++ principles to help you understand the concepts of C++ programming practically.",
+        desctiption: "This project on the Airline registration system in C++ will allow a user to book a flight to a specific nation of their choice, and they will obtain the ticket by filling in all the necessary details. The user may also choose the day and time of the trip. This project will employ many C++ principles to help you understand the concepts of C++ programming practically.",
         link: "#",
     },
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    // {
+    //     img: "https://picsum.photos/400/600/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/300/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/550/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/700/?grayscale",
+    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
 ];
 
 const contactConfig = {
