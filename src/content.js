@@ -133,7 +133,7 @@ const dataportfolio = [{
         link: "https://www.jeffrey-s-smith.dev/",
     },
     {
-        img: "https://miro.medium.com/max/409/1*o1WI_Lzbi8fiL9ULb4nhuw.jpeg",
+        img: "https://i.ytimg.com/vi/a4L9GhldTHo/maxresdefault.jpg",
         desctiption: "Technical Documentation Page. Used HTML, JavaScript, and CSS to complete this project.",
         link: "https://jeffrey-s-smith.github.io/technical_documentation_page/technical_documentation_index.html",
     },
