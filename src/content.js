@@ -128,7 +128,7 @@ const dataportfolio = [{
         link: "https://github.com/Jeffrey-S-Smith/python-billing-system",
     },
     {
-        img: "https://www.dropbox.com/home?preview=jeffrey_smith_portfolio.jpg",
+        img: "https://as2.ftcdn.net/v2/jpg/02/79/66/21/1000_F_279662127_cUasW4kyl7NoRQvel0IyE58F3yt0gsF8.jpg",
         desctiption: "Jeffrey Smith personal portfolio.",
         link: "https://www.jeffrey-s-smith.dev/",
     },
