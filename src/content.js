@@ -13,7 +13,7 @@ const introdata = {
         four: `A Quote that inspires me by Thomas Edison "I have not failed. I've just found 10,000 ways that won't work."`,
     },
     description: "Veteran | Full Stack Developer | IT Specialist | Logistics Management, currently in Seattle, WA",
-    your_img_url: "https://new.express.adobe.com/resolve/id/urn:aaid:sc:US:49c4aa56-c346-5b50-a5c0-c8acd99740f1",
+    your_img_url: "https://cdn.pixabay.com/photo/2018/07/14/11/33/earth-3537401_1280.jpg",
 };
 
 const dataabout = {
